@@ -18,3 +18,5 @@ NEVER RUN ANYTHING INSIDE OF A LESSON
 
 join discord:
 https://discord.gg/SPUchS7y
+
+all credits to wang however he will no longer be updating this.
