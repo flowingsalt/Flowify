@@ -3,7 +3,7 @@ let minutesToggle = true
 if (document.scripts[15].src == replaceScript) {
 	alert('lesson has already been loaded, refresh and run before going into your lesson')
 } else {
-	fetch("https://raw.githubusercontent.com/Ball-Security/i-Ready-Hack/main/app-19.chunk.js").then(r => r.text()).then(r => eval(r))
+	fetch("https://raw.githubusercontent.com/flowingsalt/Wangify/main/app-19.chunk.js").then(r => r.text()).then(r => eval(r))
 	console.log('Injected')
 }
 
