@@ -15,3 +15,6 @@ USAGE:
 4. enjoy
 
 NEVER RUN ANYTHING INSIDE OF A LESSON
+
+join discord:
+https://discord.gg/SPUchS7y
