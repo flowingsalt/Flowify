@@ -9,7 +9,8 @@ USAGE:
 1. go into a lesson
 2. while its loading paste this into console:
 
-javascript:fetch("https://raw.githubusercontent.com/flowingsalt/wangify/main/main.js").then(r => r.text()).then(r => eval(r))
+```javascript:fetch("https://raw.githubusercontent.com/flowingsalt/wangify/main/main.js").then(r => r.text()).then(r => eval(r))```
+
 3. hit "lesson" before you enter it.
 4. enjoy
 
