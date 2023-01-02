@@ -18,6 +18,6 @@ USAGE:
 NEVER RUN ANYTHING INSIDE OF A LESSON
 
 join discord:
-https://discord.gg/SPUchS7y
+https://discord.gg/jN2pE74Awh
 
 all credits to wang however he will no longer be updating this.
