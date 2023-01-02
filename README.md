@@ -1,4 +1,5 @@
 # Wangify
+best iready hack in 2023
 similair to nullify and overload
 
 continued in honor of wang getting asshole cancer
