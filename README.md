@@ -1,4 +1,4 @@
-# Wangify
+# Flowify
 best iready hack in 2023
 similair to nullify and overload
 
