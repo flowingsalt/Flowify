@@ -11,3 +11,5 @@ https://streamable.com/ghori7
 ^^ instructions
 JOIN DISCORD:
 https://discord.com/invite/jN2pE74Awh
+
+created by flowings join the discord if you have any questions
