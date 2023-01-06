@@ -2,22 +2,7 @@
 best iready hack in 2023
 similair to nullify and overload
 
-continued in honor of wang getting asshole cancer
+made in honor of wang <3
 
 
-USAGE:
 
-1. go into a lesson
-2. while its loading paste this into console:
-
-```javascript:fetch("https://raw.githubusercontent.com/flowingsalt/wangify/main/main.js").then(r => r.text()).then(r => eval(r))```
-
-3. hit "lesson" before you enter it.
-4. enjoy
-
-NEVER RUN ANYTHING INSIDE OF A LESSON
-
-join discord:
-https://discord.gg/jN2pE74Awh
-
-all credits to wang however he will no longer be updating this.
