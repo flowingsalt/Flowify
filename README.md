@@ -13,3 +13,5 @@ JOIN DISCORD:
 https://discord.com/invite/jN2pE74Awh
 
 created by flowings join the discord if you have any questions
+
+huge credits to darryl mahoney he showed me how to make this
