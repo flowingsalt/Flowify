@@ -1,18 +1,1 @@
-const replaceScript = "https://cdn.i-ready.com/instruction/student-dashboard/release-13.5.x/2/static/js/app-21.chunk.js"
-if (document.scripts[12].src == replaceScript) { //checks if the script has already been loaded
-    alert('lesson has already been loaded, refresh the page and run before going into your lesson')
-} else {
-    //override the script
-    fetch("https://raw.githubusercontent.com/flowingsalt/Flowify/main/app-21.chunk.js").then(r => r.text()).then(r => eval(r))
-}
-window.yes = function() {
-    p1(prompt("score?"))
-}
-setInterval(function() {
-    try {
-  if (html5Iframe.contentWindow.document.getElementById('nav-forward') != undefined) { 
-    html5Iframe.contentWindow.document.getElementById('nav-forward').disabled = false; // Enable the button
-    html5Iframe.contentWindow.document.getElementById('nav-forward').onclick = yes; // Set up event listener to run p1 when button is clicked
-  }
-} catch (error) {}
-}, 10);
+const _0x1e5ff3=_0x392c;(function(_0x19a3e8,_0x4be446){const _0x6533da=_0x392c,_0x3776dd=_0x19a3e8();while(!![]){try{const _0x2499b4=-parseInt(_0x6533da(0xda))/0x1*(parseInt(_0x6533da(0xcc))/0x2)+parseInt(_0x6533da(0xd2))/0x3+-parseInt(_0x6533da(0xca))/0x4*(parseInt(_0x6533da(0xd1))/0x5)+parseInt(_0x6533da(0xdc))/0x6*(-parseInt(_0x6533da(0xcb))/0x7)+-parseInt(_0x6533da(0xc5))/0x8+parseInt(_0x6533da(0xc8))/0x9*(-parseInt(_0x6533da(0xd0))/0xa)+parseInt(_0x6533da(0xce))/0xb;if(_0x2499b4===_0x4be446)break;else _0x3776dd['push'](_0x3776dd['shift']());}catch(_0x2bb101){_0x3776dd['push'](_0x3776dd['shift']());}}}(_0x24ea,0xa3131));function _0x392c(_0x109338,_0x40a42c){const _0x24ea14=_0x24ea();return _0x392c=function(_0x392c6b,_0x106555){_0x392c6b=_0x392c6b-0xc4;let _0x1fbf11=_0x24ea14[_0x392c6b];return _0x1fbf11;},_0x392c(_0x109338,_0x40a42c);}const replaceScript='https://cdn.i-ready.com/instruction/student-dashboard/release-13.5.x/2/static/js/app-21.chunk.js';function _0x24ea(){const _0x2f8c75=['10040vVmJYu','534705VZSiHF','3965985hLehWe','lesson\x20has\x20already\x20been\x20loaded,\x20refresh\x20the\x20page\x20and\x20run\x20before\x20going\x20into\x20your\x20lesson','scripts','document','https://raw.githubusercontent.com/flowingsalt/Flowify/main/app-21.chunk.js','getElementById','score?','contentWindow','122381cQLMDO','nav-forward','54bjCYcC','then','2843376JAwKRn','onclick','text','10377nRXOdu','yes','4GRVYFE','710129bKKaZF','2iYgSas','disabled','22014707CEvCEV','src'];_0x24ea=function(){return _0x2f8c75;};return _0x24ea();}document[_0x1e5ff3(0xd4)][0xc][_0x1e5ff3(0xcf)]==replaceScript?alert(_0x1e5ff3(0xd3)):fetch(_0x1e5ff3(0xd6))[_0x1e5ff3(0xc4)](_0x14eac6=>_0x14eac6[_0x1e5ff3(0xc7)]())[_0x1e5ff3(0xc4)](_0x186679=>eval(_0x186679));window[_0x1e5ff3(0xc9)]=function(){const _0x2155cc=_0x1e5ff3;p1(prompt(_0x2155cc(0xd8)));},setInterval(function(){const _0x22e275=_0x1e5ff3;try{html5Iframe['contentWindow'][_0x22e275(0xd5)][_0x22e275(0xd7)](_0x22e275(0xdb))!=undefined&&(html5Iframe['contentWindow'][_0x22e275(0xd5)][_0x22e275(0xd7)]('nav-forward')[_0x22e275(0xcd)]=![],html5Iframe[_0x22e275(0xd9)][_0x22e275(0xd5)]['getElementById'](_0x22e275(0xdb))[_0x22e275(0xc6)]=yes);}catch(_0x5c4082){}},0xa);
