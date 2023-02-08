@@ -14,4 +14,16 @@ https://discord.com/invite/jN2pE74Awh
 
 created by flowings join the discord if you have any questions
 
-huge credits to darryl mahoney he showed me how to make this
+LICENSE:
+
+https://github.com/flowingsalt/Flowify/blob/main/license.md
+
+you may not take this code and add it to your panel without my permission 
+this skipper is licensed to nullify ONLY 
+
+if you want to associate:
+
+flowings.#0001
+
+jmenu sucks
+
