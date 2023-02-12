@@ -19,8 +19,8 @@ LICENSE:
 https://github.com/flowingsalt/Flowify/blob/main/license.md
 
 you may not take this code and add it to your panel without my permission 
-this skipper is licensed to nullify ONLY 
-BYPASSR DOES NOT HAVE PERMISSION TO USE THIS UNTIL THEY GIVE BACK .gg/nullify
+
+this skipper is licensed to no one, no nullify or bypassr. only flowify
 
 if you want to associate:
 
